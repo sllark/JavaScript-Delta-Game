@@ -1,6 +1,6 @@
 # JavaScript Delta Game
 
-This is a JavaScript version of  c64 classic space shooting game known as 'Delta'.
+This is a JavaScript version of  c64 classic space shooting game known as 'Delta'. You can play this game [here]( https://sllark.github.io/javascript-Delta-Game/).
 
 # Project Description
 
